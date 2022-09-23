@@ -1,2 +1,2 @@
 # sps_game
-## A Simple (Stone, Paper, Scissor) Game
+A Simple (Stone, Paper, Scissor) Game
